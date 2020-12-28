@@ -1,0 +1,107 @@
+{
+  "uid" : "1cd0663e1e7c8469",
+  "name" : "test_index_online_openfile[C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\版式格式规范送审稿.pdf-版式文档标准编制组]",
+  "fullName" : "scripts.test04_index_pdf_openfile.TestIndexPdfOpenFile#test_index_online_openfile",
+  "historyId" : "371a301bc2b89bfe8123d5b8e938ade2",
+  "time" : {
+    "start" : 1608784555489,
+    "stop" : 1608784568063,
+    "duration" : 12574
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1608784551002,
+      "stop" : 1608784555489,
+      "duration" : 4487
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2cf21fb0bf33fc5b",
+      "name" : "log",
+      "source" : "2cf21fb0bf33fc5b.txt",
+      "type" : "text/plain",
+      "size" : 2277
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1608784568064,
+      "stop" : 1608784570145,
+      "duration" : 2081
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test04_index_pdf_openfile"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestIndexPdfOpenFile"
+  }, {
+    "name" : "host",
+    "value" : "fxkp-PC"
+  }, {
+    "name" : "thread",
+    "value" : "4320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test04_index_pdf_openfile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expect",
+    "value" : "'版式文档标准编制组'"
+  }, {
+    "name" : "filedir",
+    "value" : "'C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\版式格式规范送审稿.pdf'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cd0663e1e7c8469.json",
+  "parameterValues" : [ "'版式文档标准编制组'", "'C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\版式格式规范送审稿.pdf'" ]
+}

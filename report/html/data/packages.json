@@ -1,0 +1,105 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "test01_index_openfile",
+      "children" : [ {
+        "name" : "test_index_openfile[C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\1.ofd-自动化测试文档1.ofd]",
+        "uid" : "92c1334a09fd0d5c",
+        "parentUid" : "79342b3ce0e24f424fa936e595f8e5aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608784496578,
+          "stop" : 1608784509177,
+          "duration" : 12599
+        },
+        "flaky" : false,
+        "parameters" : [ "'自动化测试文档1.ofd'", "'C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\1.ofd'" ]
+      } ],
+      "uid" : "79342b3ce0e24f424fa936e595f8e5aa"
+    }, {
+      "name" : "test02_index_local_openfile",
+      "children" : [ {
+        "name" : "test_index_local_openfile[C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\sign_keyword.ofd-自动化测试文档1]",
+        "uid" : "cf383a040d38af6f",
+        "parentUid" : "141ef7b777bd4f8a76abebe690a44c20",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608784516929,
+          "stop" : 1608784531595,
+          "duration" : 14666
+        },
+        "flaky" : false,
+        "parameters" : [ "'自动化测试文档1'", "'C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\sign_keyword.ofd'" ]
+      } ],
+      "uid" : "141ef7b777bd4f8a76abebe690a44c20"
+    }, {
+      "name" : "test03_index_online_openfile",
+      "children" : [ {
+        "name" : "test_index_online_openfile[http://10.6.8.3:8080/viewer/docs/sample/sample.ofd-高明]",
+        "uid" : "1898d6322f2fa38c",
+        "parentUid" : "92a3ded296f93087c5b40891aa697237",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608784539107,
+          "stop" : 1608784548819,
+          "duration" : 9712
+        },
+        "flaky" : false,
+        "parameters" : [ "'高明'", "'http://10.6.8.3:8080/viewer/docs/sample/sample.ofd'" ]
+      } ],
+      "uid" : "92a3ded296f93087c5b40891aa697237"
+    }, {
+      "name" : "test04_index_pdf_openfile",
+      "children" : [ {
+        "name" : "test_index_online_openfile[C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\版式格式规范送审稿.pdf-版式文档标准编制组]",
+        "uid" : "1cd0663e1e7c8469",
+        "parentUid" : "77926ce4232c20076f7b400b313b81be",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608784555489,
+          "stop" : 1608784568063,
+          "duration" : 12574
+        },
+        "flaky" : false,
+        "parameters" : [ "'版式文档标准编制组'", "'C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\版式格式规范送审稿.pdf'" ]
+      } ],
+      "uid" : "77926ce4232c20076f7b400b313b81be"
+    }, {
+      "name" : "test05_index_pencil",
+      "children" : [ {
+        "name" : "test_index_pencil",
+        "uid" : "9a3fb372a680ffaa",
+        "parentUid" : "97c4070ea59a2ba49ee81d3c90363e3f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608784575446,
+          "stop" : 1608784593789,
+          "duration" : 18343
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "97c4070ea59a2ba49ee81d3c90363e3f"
+    }, {
+      "name" : "test06_index_savefile",
+      "children" : [ {
+        "name" : "test_index_savefile[C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\1.ofd-保存文件成功.]",
+        "uid" : "50caacde4e1645c7",
+        "parentUid" : "b6443dd435b7a7012c8515c686ac80cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1608784600585,
+          "stop" : 1608784614880,
+          "duration" : 14295
+        },
+        "flaky" : false,
+        "parameters" : [ "'保存文件成功.'", "'C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\1.ofd'" ]
+      } ],
+      "uid" : "b6443dd435b7a7012c8515c686ac80cd"
+    } ],
+    "uid" : "8083a48773cbfbc2897cb0336273acc5"
+  } ]
+}

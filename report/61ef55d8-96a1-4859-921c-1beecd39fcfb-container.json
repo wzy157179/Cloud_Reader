@@ -1,0 +1,1 @@
+{"uuid": "101f1cf4-8099-4b23-bfbf-df592350694c", "befores": [{"name": "_Class__pytest_setup_class", "status": "passed", "start": 1608784533721, "stop": 1608784539106}], "afters": [{"name": "_Class__pytest_setup_class::0", "status": "passed", "start": 1608784548820, "stop": 1608784550984}], "start": 1608784533721, "stop": 1608784550984}

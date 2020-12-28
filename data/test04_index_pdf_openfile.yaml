@@ -1,0 +1,3 @@
+index_online_openfile:
+  filedir: 'C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\版式格式规范送审稿.pdf'
+  expect: "版式文档标准编制组"

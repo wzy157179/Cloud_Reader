@@ -1,0 +1,113 @@
+{
+  "uid" : "50caacde4e1645c7",
+  "name" : "test_index_savefile[C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\1.ofd-保存文件成功.]",
+  "fullName" : "scripts.test06_index_savefile.TestIndexSavefile#test_index_savefile",
+  "historyId" : "acb51b97f4e0efb2e08ec651632ff690",
+  "time" : {
+    "start" : 1608784600585,
+    "stop" : 1608784614880,
+    "duration" : 14295
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1608784595905,
+      "stop" : 1608784600584,
+      "duration" : 4679
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d85433b1d4224ae5",
+      "name" : "截图",
+      "source" : "d85433b1d4224ae5.jpg",
+      "type" : "image/jpg",
+      "size" : 166441
+    }, {
+      "uid" : "ddf77e22d8479212",
+      "name" : "log",
+      "source" : "ddf77e22d8479212.txt",
+      "type" : "text/plain",
+      "size" : 2656
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1608784614882,
+      "stop" : 1608784616991,
+      "duration" : 2109
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test06_index_savefile"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestIndexSavefile"
+  }, {
+    "name" : "host",
+    "value" : "fxkp-PC"
+  }, {
+    "name" : "thread",
+    "value" : "4320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test06_index_savefile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expect",
+    "value" : "'保存文件成功.'"
+  }, {
+    "name" : "filedir",
+    "value" : "'C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\1.ofd'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50caacde4e1645c7.json",
+  "parameterValues" : [ "'保存文件成功.'", "'C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\1.ofd'" ]
+}

@@ -1,0 +1,26 @@
+INFO     root:base.py:15 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="773b219e72528e189f07b34e551fbcb4")>
+INFO     root:base.py:15 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="773b219e72528e189f07b34e551fbcb4")>
+INFO     root:base.py:15 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="773b219e72528e189f07b34e551fbcb4")>
+INFO     root:page_index_openfile.py:68 正在调用打开文档组合业务方法(点击logo),路径为:C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd
+INFO     root:base.py:56 正在准备对：('id', 'fileUploadForm2')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'fileUploadForm2')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'fileUploadForm2')元素执行点击操作完成
+INFO     root:base.py:108 正在准备对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd 操作
+INFO     root:base.py:112 对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd 操作完成！
+INFO     root:base.py:122 正在准备对系统进行点击：enter 按键操作
+INFO     root:base.py:124 对系统进行点击：enter 按键操作完成！
+INFO     root:page_index_pencil.py:57 铅笔绘画组合方法
+INFO     root:base.py:56 正在准备对：('id', 'btnPencilTool')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'btnPencilTool')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'btnPencilTool')元素执行点击操作完成
+INFO     root:page_index_pencil.py:60 铅笔绘画组合方法完成
+INFO     root:base.py:87 正在截图操作
+INFO     root:base.py:96 正在将图片写入报告操作
+INFO     root:page_index_savefile.py:28 正在调用保存文件组合业务方法
+INFO     root:base.py:56 正在准备对：('id', 'btnSave')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'btnSave')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'btnSave')元素执行点击操作完成
+INFO     root:base.py:26 正在查找：('xpath', '//*[@id="fwrAlertDlg"]/div[2]')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:67 正在对:('xpath', '//*[@id="fwrAlertDlg"]/div[2]')元素获取文本操作, 获取的文本值：保存文件成功.
+INFO     root:base.py:26 正在查找：('xpath', '//*[@id="fwrAlertDlg"]/div[2]')元素，访问频率：0.1 超时时间：30
+INFO     root:page_index_savefile.py:31 获取到的提示信息为:保存文件成功.

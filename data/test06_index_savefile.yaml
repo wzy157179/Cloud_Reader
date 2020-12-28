@@ -1,0 +1,3 @@
+index_openfile:
+  filedir: 'C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd'
+  expect: "保存文件成功."

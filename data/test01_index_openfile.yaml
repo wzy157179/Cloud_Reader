@@ -1,0 +1,3 @@
+index_openfile:
+  filedir: 'C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd'
+  expect: "自动化测试文档1.ofd"

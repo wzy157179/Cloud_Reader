@@ -1,0 +1,27 @@
+INFO     root:base.py:15 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="17ff67786cdef5ea3eef278a36ec1922")>
+INFO     root:page_index_openfile.py:83 正在调用打开文档组合业务方法(点击网络文件),URL为:http://10.6.8.3:8080/viewer/docs/sample/sample.ofd
+INFO     root:base.py:56 正在准备对：('id', 'btn-openfile-switch')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'btn-openfile-switch')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'btn-openfile-switch')元素执行点击操作完成
+INFO     root:base.py:56 正在准备对：('id', 'btnOpenOnline')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'btnOpenOnline')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'btnOpenOnline')元素执行点击操作完成
+INFO     root:base.py:26 正在查找：('id', 'onlineUrlInput')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:41 正在准备对：('id', 'onlineUrlInput')元素执行清空操作
+INFO     root:base.py:44 对：('id', 'onlineUrlInput')元素执行清空操作完成！
+INFO     root:base.py:45 正在准备对：('id', 'onlineUrlInput')元素执行输入：http://10.6.8.3:8080/viewer/docs/sample/sample.ofd 操作
+INFO     root:base.py:48 对：('id', 'onlineUrlInput')元素执行输入：http://10.6.8.3:8080/viewer/docs/sample/sample.ofd 操作完成！
+INFO     root:base.py:56 正在准备对：('id', 'btnOkOpen')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'btnOkOpen')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'btnOkOpen')元素执行点击操作完成
+INFO     root:page_index_openfile.py:91 正在调用查看文档信息组合业务方法
+INFO     root:base.py:137 正在准备进行对坐标(800.0,450.0)1键right此点击操作
+INFO     root:base.py:140 进行对坐标(800.0,450.0)1键right此点击操作完成！
+INFO     root:base.py:56 正在准备对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'docViewercontextMenuDocProperties')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作完成
+INFO     root:page_index_openfile.py:105 正在调用审核文档作者组合业务方法
+INFO     root:base.py:26 正在查找：('id', 'docViewer_docPropertiesAuthor')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:67 正在对:('id', 'docViewer_docPropertiesAuthor')元素获取文本操作, 获取的文本值：高明
+INFO     root:base.py:26 正在查找：('id', 'docViewer_docPropertiesAuthor')元素，访问频率：0.1 超时时间：30
+INFO     root:page_index_openfile.py:108 所打开文档的作者为:高明

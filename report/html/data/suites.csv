@@ -1,0 +1,7 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test02_index_local_openfile.TestIndexLocalOpenFile#test_index_local_openfile","14666",""
+"passed","scripts.test05_index_pencil.TestIndexPencil#test_index_pencil","18343",""
+"passed","scripts.test03_index_online_openfile.TestIndexOnlineOpenFile#test_index_online_openfile","9712",""
+"passed","scripts.test01_index_openfile.TestIndexOpenFile#test_index_openfile","12599",""
+"passed","scripts.test04_index_pdf_openfile.TestIndexPdfOpenFile#test_index_online_openfile","12574",""
+"passed","scripts.test06_index_savefile.TestIndexSavefile#test_index_savefile","14295",""

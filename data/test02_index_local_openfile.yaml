@@ -1,0 +1,3 @@
+index_local_openfile:
+  filedir: 'C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\sign_keyword.ofd'
+  expect: "自动化测试文档1"

@@ -1,0 +1,23 @@
+INFO     root:base.py:19 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="340b8e31b3022235feec4c9a35a0fc4e")>
+INFO     root:page_index_openfile.py:79 正在调用打开文档组合业务方法(点击本地文件),路径为:C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\sign_keyword.ofd
+INFO     root:base.py:60 正在准备对：('id', 'btn-openfile-switch')元素执行点击操作
+INFO     root:base.py:30 正在查找：('id', 'btn-openfile-switch')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:62 对：('id', 'btn-openfile-switch')元素执行点击操作完成
+INFO     root:base.py:60 正在准备对：('id', 'btnOpenLocal')元素执行点击操作
+INFO     root:base.py:30 正在查找：('id', 'btnOpenLocal')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:62 对：('id', 'btnOpenLocal')元素执行点击操作完成
+INFO     root:base.py:112 正在准备对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\sign_keyword.ofd 操作
+INFO     root:base.py:116 对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\sign_keyword.ofd 操作完成！
+INFO     root:base.py:126 正在准备对系统进行点击：enter 按键操作
+INFO     root:base.py:128 对系统进行点击：enter 按键操作完成！
+INFO     root:page_index_openfile.py:95 正在调用查看文档信息组合业务方法
+INFO     root:base.py:141 正在准备进行对坐标(800.0,450.0)1键right此点击操作
+INFO     root:base.py:144 进行对坐标(800.0,450.0)1键right此点击操作完成！
+INFO     root:base.py:60 正在准备对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作
+INFO     root:base.py:30 正在查找：('id', 'docViewercontextMenuDocProperties')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:62 对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作完成
+INFO     root:page_index_openfile.py:101 正在调用审核文档标题组合业务方法
+INFO     root:base.py:30 正在查找：('id', 'docViewer_docPropertiesTitle')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:71 正在对:('id', 'docViewer_docPropertiesTitle')元素获取文本操作, 获取的文本值：自动化测试文档1
+INFO     root:base.py:30 正在查找：('id', 'docViewer_docPropertiesTitle')元素，访问频率：0.1 超时时间：30
+INFO     root:page_index_openfile.py:104 所打开文档的标题为:自动化测试文档1

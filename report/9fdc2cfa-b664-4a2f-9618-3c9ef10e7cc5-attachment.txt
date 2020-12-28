@@ -1,0 +1,20 @@
+INFO     root:base.py:15 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="2abe91d51efb4f62666e582e9ca3e321")>
+INFO     root:page_index_openfile.py:68 正在调用打开文档组合业务方法(点击logo),路径为:C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd
+INFO     root:base.py:56 正在准备对：('id', 'fileUploadForm2')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'fileUploadForm2')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'fileUploadForm2')元素执行点击操作完成
+INFO     root:base.py:108 正在准备对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd 操作
+INFO     root:base.py:112 对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd 操作完成！
+INFO     root:base.py:122 正在准备对系统进行点击：enter 按键操作
+INFO     root:base.py:124 对系统进行点击：enter 按键操作完成！
+INFO     root:page_index_openfile.py:91 正在调用查看文档信息组合业务方法
+INFO     root:base.py:137 正在准备进行对坐标(800.0,450.0)1键right此点击操作
+INFO     root:base.py:140 进行对坐标(800.0,450.0)1键right此点击操作完成！
+INFO     root:base.py:56 正在准备对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'docViewercontextMenuDocProperties')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作完成
+INFO     root:page_index_openfile.py:97 正在调用审核文档标题组合业务方法
+INFO     root:base.py:26 正在查找：('id', 'docViewer_docPropertiesTitle')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:67 正在对:('id', 'docViewer_docPropertiesTitle')元素获取文本操作, 获取的文本值：自动化测试文档1.ofd
+INFO     root:base.py:26 正在查找：('id', 'docViewer_docPropertiesTitle')元素，访问频率：0.1 超时时间：30
+INFO     root:page_index_openfile.py:100 所打开文档的标题为:自动化测试文档1.ofd

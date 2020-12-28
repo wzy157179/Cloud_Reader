@@ -1,0 +1,107 @@
+{
+  "uid" : "cf383a040d38af6f",
+  "name" : "test_index_local_openfile[C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\sign_keyword.ofd-自动化测试文档1]",
+  "fullName" : "scripts.test02_index_local_openfile.TestIndexLocalOpenFile#test_index_local_openfile",
+  "historyId" : "7df3f076cef6d06bbe004503d64711ac",
+  "time" : {
+    "start" : 1608784516929,
+    "stop" : 1608784531595,
+    "duration" : 14666
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1608784511319,
+      "stop" : 1608784516929,
+      "duration" : 5610
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7d111d8fb89b36e1",
+      "name" : "log",
+      "source" : "7d111d8fb89b36e1.txt",
+      "type" : "text/plain",
+      "size" : 2520
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1608784531596,
+      "stop" : 1608784533707,
+      "duration" : 2111
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test02_index_local_openfile"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestIndexLocalOpenFile"
+  }, {
+    "name" : "host",
+    "value" : "fxkp-PC"
+  }, {
+    "name" : "thread",
+    "value" : "4320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test02_index_local_openfile"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expect",
+    "value" : "'自动化测试文档1'"
+  }, {
+    "name" : "filedir",
+    "value" : "'C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\sign_keyword.ofd'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf383a040d38af6f.json",
+  "parameterValues" : [ "'自动化测试文档1'", "'C:\\Users\\fxkp\\PycharmProjects\\Cloud_Reader\\testcase\\sign_keyword.ofd'" ]
+}

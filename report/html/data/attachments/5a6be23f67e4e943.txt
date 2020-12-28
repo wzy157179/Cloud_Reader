@@ -1,0 +1,41 @@
+INFO     root:base.py:15 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="a21ea31ab45b65a86d8cd4aeee43f39f")>
+INFO     root:page_index_pencil.py:57 铅笔绘画组合方法
+INFO     root:base.py:56 正在准备对：('id', 'btnPencilTool')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'btnPencilTool')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'btnPencilTool')元素执行点击操作完成
+INFO     root:page_index_pencil.py:60 铅笔绘画组合方法完成
+INFO     root:base.py:87 正在截图操作
+INFO     root:base.py:96 正在将图片写入报告操作
+INFO     root:page_index_pencil.py:64 铅笔绘画删除组合方法
+INFO     root:base.py:56 正在准备对：('id', 'btnHandTool')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'btnHandTool')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'btnHandTool')元素执行点击操作完成
+INFO     root:base.py:137 正在准备进行对坐标(533.3333333333334,300.0)1键right此点击操作
+INFO     root:base.py:140 进行对坐标(533.3333333333334,300.0)1键right此点击操作完成！
+INFO     root:base.py:56 正在准备对：('id', 'delete_annot')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'delete_annot')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'delete_annot')元素执行点击操作完成
+INFO     root:page_index_pencil.py:68 铅笔绘画删除组合方法完成
+INFO     root:base.py:87 正在截图操作
+INFO     root:base.py:96 正在将图片写入报告操作
+INFO     root:page_index_pencil.py:72 铅笔默认属性更改组合方法
+INFO     root:base.py:137 正在准备进行对坐标(583.3333333333334,350.0)1键right此点击操作
+INFO     root:base.py:140 进行对坐标(583.3333333333334,350.0)1键right此点击操作完成！
+INFO     root:base.py:56 正在准备对：('id', 'open_property')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'open_property')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'open_property')元素执行点击操作完成
+INFO     root:base.py:56 正在准备对：('xpath', '//*[@id="fwrCommentPropertyDlg"]/div[2]/dl/dd/span[4]/span')元素执行点击操作
+INFO     root:base.py:26 正在查找：('xpath', '//*[@id="fwrCommentPropertyDlg"]/div[2]/dl/dd/span[4]/span')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('xpath', '//*[@id="fwrCommentPropertyDlg"]/div[2]/dl/dd/span[4]/span')元素执行点击操作完成
+INFO     root:base.py:56 正在准备对：('id', 'set_default')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'set_default')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'set_default')元素执行点击操作完成
+INFO     root:base.py:56 正在准备对：('id', 'closeBtn')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'closeBtn')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'closeBtn')元素执行点击操作完成
+INFO     root:base.py:56 正在准备对：('id', 'btnPencilTool')元素执行点击操作
+INFO     root:base.py:26 正在查找：('id', 'btnPencilTool')元素，访问频率：0.5 超时时间：30
+INFO     root:base.py:58 对：('id', 'btnPencilTool')元素执行点击操作完成
+INFO     root:page_index_pencil.py:80 铅笔默认属性更改组合方法
+INFO     root:base.py:87 正在截图操作
+INFO     root:base.py:96 正在将图片写入报告操作

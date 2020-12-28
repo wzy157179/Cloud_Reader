@@ -1,0 +1,251 @@
+2020-12-24 12:34:56,577 INFO [base.py(__init__:15)] - 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="2abe91d51efb4f62666e582e9ca3e321")>
+2020-12-24 12:34:56,577 INFO [page_index_openfile.py(page_index_openfile:68)] - 正在调用打开文档组合业务方法(点击logo),路径为:C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd
+2020-12-24 12:34:58,579 INFO [base.py(base_click:56)] - 正在准备对：('id', 'fileUploadForm2')元素执行点击操作
+2020-12-24 12:34:58,579 INFO [base.py(base_find:26)] - 正在查找：('id', 'fileUploadForm2')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:34:58,662 INFO [base.py(base_click:58)] - 对：('id', 'fileUploadForm2')元素执行点击操作完成
+2020-12-24 12:35:01,662 INFO [base.py(system_write:108)] - 正在准备对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd 操作
+2020-12-24 12:35:01,771 INFO [base.py(system_write:112)] - 对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd 操作完成！
+2020-12-24 12:35:03,771 INFO [base.py(system_press:122)] - 正在准备对系统进行点击：enter 按键操作
+2020-12-24 12:35:03,871 INFO [base.py(system_press:124)] - 对系统进行点击：enter 按键操作完成！
+2020-12-24 12:35:03,871 INFO [page_index_openfile.py(page_index_get_document_info:91)] - 正在调用查看文档信息组合业务方法
+2020-12-24 12:35:08,871 INFO [base.py(system_click:137)] - 正在准备进行对坐标(800.0,450.0)1键right此点击操作
+2020-12-24 12:35:08,973 INFO [base.py(system_click:140)] - 进行对坐标(800.0,450.0)1键right此点击操作完成！
+2020-12-24 12:35:08,973 INFO [base.py(base_click:56)] - 正在准备对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作
+2020-12-24 12:35:08,973 INFO [base.py(base_find:26)] - 正在查找：('id', 'docViewercontextMenuDocProperties')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:35:09,134 INFO [base.py(base_click:58)] - 对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作完成
+2020-12-24 12:35:09,134 INFO [page_index_openfile.py(page_index_get_filetitle:97)] - 正在调用审核文档标题组合业务方法
+2020-12-24 12:35:09,134 INFO [base.py(base_find:26)] - 正在查找：('id', 'docViewer_docPropertiesTitle')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:35:09,163 INFO [base.py(base_get_text:67)] - 正在对:('id', 'docViewer_docPropertiesTitle')元素获取文本操作, 获取的文本值：自动化测试文档1.ofd
+2020-12-24 12:35:09,164 INFO [base.py(base_find:26)] - 正在查找：('id', 'docViewer_docPropertiesTitle')元素，访问频率：0.1 超时时间：30
+2020-12-24 12:35:09,176 INFO [page_index_openfile.py(page_index_get_filetitle:100)] - 所打开文档的标题为:自动化测试文档1.ofd
+2020-12-24 12:35:16,929 INFO [base.py(__init__:15)] - 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="95fba5b8e826dff3673dbc5271934e49")>
+2020-12-24 12:35:16,929 INFO [page_index_openfile.py(page_index_loacl_openfile:75)] - 正在调用打开文档组合业务方法(点击本地文件),路径为:C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\sign_keyword.ofd
+2020-12-24 12:35:18,930 INFO [base.py(base_click:56)] - 正在准备对：('id', 'btn-openfile-switch')元素执行点击操作
+2020-12-24 12:35:18,930 INFO [base.py(base_find:26)] - 正在查找：('id', 'btn-openfile-switch')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:35:19,029 INFO [base.py(base_click:58)] - 对：('id', 'btn-openfile-switch')元素执行点击操作完成
+2020-12-24 12:35:21,029 INFO [base.py(base_click:56)] - 正在准备对：('id', 'btnOpenLocal')元素执行点击操作
+2020-12-24 12:35:21,029 INFO [base.py(base_find:26)] - 正在查找：('id', 'btnOpenLocal')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:35:21,143 INFO [base.py(base_click:58)] - 对：('id', 'btnOpenLocal')元素执行点击操作完成
+2020-12-24 12:35:24,143 INFO [base.py(system_write:108)] - 正在准备对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\sign_keyword.ofd 操作
+2020-12-24 12:35:24,264 INFO [base.py(system_write:112)] - 对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\sign_keyword.ofd 操作完成！
+2020-12-24 12:35:26,264 INFO [base.py(system_press:122)] - 正在准备对系统进行点击：enter 按键操作
+2020-12-24 12:35:26,365 INFO [base.py(system_press:124)] - 对系统进行点击：enter 按键操作完成！
+2020-12-24 12:35:26,365 INFO [page_index_openfile.py(page_index_get_document_info:91)] - 正在调用查看文档信息组合业务方法
+2020-12-24 12:35:31,365 INFO [base.py(system_click:137)] - 正在准备进行对坐标(800.0,450.0)1键right此点击操作
+2020-12-24 12:35:31,467 INFO [base.py(system_click:140)] - 进行对坐标(800.0,450.0)1键right此点击操作完成！
+2020-12-24 12:35:31,467 INFO [base.py(base_click:56)] - 正在准备对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作
+2020-12-24 12:35:31,467 INFO [base.py(base_find:26)] - 正在查找：('id', 'docViewercontextMenuDocProperties')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:35:31,565 INFO [base.py(base_click:58)] - 对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作完成
+2020-12-24 12:35:31,565 INFO [page_index_openfile.py(page_index_get_filetitle:97)] - 正在调用审核文档标题组合业务方法
+2020-12-24 12:35:31,565 INFO [base.py(base_find:26)] - 正在查找：('id', 'docViewer_docPropertiesTitle')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:35:31,584 INFO [base.py(base_get_text:67)] - 正在对:('id', 'docViewer_docPropertiesTitle')元素获取文本操作, 获取的文本值：自动化测试文档1
+2020-12-24 12:35:31,584 INFO [base.py(base_find:26)] - 正在查找：('id', 'docViewer_docPropertiesTitle')元素，访问频率：0.1 超时时间：30
+2020-12-24 12:35:31,594 INFO [page_index_openfile.py(page_index_get_filetitle:100)] - 所打开文档的标题为:自动化测试文档1
+2020-12-24 12:35:39,106 INFO [base.py(__init__:15)] - 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="17ff67786cdef5ea3eef278a36ec1922")>
+2020-12-24 12:35:39,107 INFO [page_index_openfile.py(page_index_online_openfile:83)] - 正在调用打开文档组合业务方法(点击网络文件),URL为:http://10.6.8.3:8080/viewer/docs/sample/sample.ofd
+2020-12-24 12:35:41,107 INFO [base.py(base_click:56)] - 正在准备对：('id', 'btn-openfile-switch')元素执行点击操作
+2020-12-24 12:35:41,107 INFO [base.py(base_find:26)] - 正在查找：('id', 'btn-openfile-switch')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:35:41,278 INFO [base.py(base_click:58)] - 对：('id', 'btn-openfile-switch')元素执行点击操作完成
+2020-12-24 12:35:43,278 INFO [base.py(base_click:56)] - 正在准备对：('id', 'btnOpenOnline')元素执行点击操作
+2020-12-24 12:35:43,278 INFO [base.py(base_find:26)] - 正在查找：('id', 'btnOpenOnline')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:35:43,396 INFO [base.py(base_click:58)] - 对：('id', 'btnOpenOnline')元素执行点击操作完成
+2020-12-24 12:35:43,397 INFO [base.py(base_find:26)] - 正在查找：('id', 'onlineUrlInput')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:35:43,409 INFO [base.py(base_input:41)] - 正在准备对：('id', 'onlineUrlInput')元素执行清空操作
+2020-12-24 12:35:43,435 INFO [base.py(base_input:44)] - 对：('id', 'onlineUrlInput')元素执行清空操作完成！
+2020-12-24 12:35:43,435 INFO [base.py(base_input:45)] - 正在准备对：('id', 'onlineUrlInput')元素执行输入：http://10.6.8.3:8080/viewer/docs/sample/sample.ofd 操作
+2020-12-24 12:35:43,497 INFO [base.py(base_input:48)] - 对：('id', 'onlineUrlInput')元素执行输入：http://10.6.8.3:8080/viewer/docs/sample/sample.ofd 操作完成！
+2020-12-24 12:35:43,498 INFO [base.py(base_click:56)] - 正在准备对：('id', 'btnOkOpen')元素执行点击操作
+2020-12-24 12:35:43,498 INFO [base.py(base_find:26)] - 正在查找：('id', 'btnOkOpen')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:35:43,619 INFO [base.py(base_click:58)] - 对：('id', 'btnOkOpen')元素执行点击操作完成
+2020-12-24 12:35:43,619 INFO [page_index_openfile.py(page_index_get_document_info:91)] - 正在调用查看文档信息组合业务方法
+2020-12-24 12:35:48,619 INFO [base.py(system_click:137)] - 正在准备进行对坐标(800.0,450.0)1键right此点击操作
+2020-12-24 12:35:48,720 INFO [base.py(system_click:140)] - 进行对坐标(800.0,450.0)1键right此点击操作完成！
+2020-12-24 12:35:48,720 INFO [base.py(base_click:56)] - 正在准备对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作
+2020-12-24 12:35:48,720 INFO [base.py(base_find:26)] - 正在查找：('id', 'docViewercontextMenuDocProperties')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:35:48,790 INFO [base.py(base_click:58)] - 对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作完成
+2020-12-24 12:35:48,790 INFO [page_index_openfile.py(page_index_get_fileauthor:105)] - 正在调用审核文档作者组合业务方法
+2020-12-24 12:35:48,790 INFO [base.py(base_find:26)] - 正在查找：('id', 'docViewer_docPropertiesAuthor')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:35:48,808 INFO [base.py(base_get_text:67)] - 正在对:('id', 'docViewer_docPropertiesAuthor')元素获取文本操作, 获取的文本值：高明
+2020-12-24 12:35:48,808 INFO [base.py(base_find:26)] - 正在查找：('id', 'docViewer_docPropertiesAuthor')元素，访问频率：0.1 超时时间：30
+2020-12-24 12:35:48,818 INFO [page_index_openfile.py(page_index_get_fileauthor:108)] - 所打开文档的作者为:高明
+2020-12-24 12:35:55,488 INFO [base.py(__init__:15)] - 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="31763077ce1f5b18890f3b90092ee80d")>
+2020-12-24 12:35:55,490 INFO [page_index_openfile.py(page_index_openfile:68)] - 正在调用打开文档组合业务方法(点击logo),路径为:C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\版式格式规范送审稿.pdf
+2020-12-24 12:35:57,490 INFO [base.py(base_click:56)] - 正在准备对：('id', 'fileUploadForm2')元素执行点击操作
+2020-12-24 12:35:57,490 INFO [base.py(base_find:26)] - 正在查找：('id', 'fileUploadForm2')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:35:57,590 INFO [base.py(base_click:58)] - 对：('id', 'fileUploadForm2')元素执行点击操作完成
+2020-12-24 12:36:00,591 INFO [base.py(system_write:108)] - 正在准备对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\版式格式规范送审稿.pdf 操作
+2020-12-24 12:36:00,736 INFO [base.py(system_write:112)] - 对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\版式格式规范送审稿.pdf 操作完成！
+2020-12-24 12:36:02,736 INFO [base.py(system_press:122)] - 正在准备对系统进行点击：enter 按键操作
+2020-12-24 12:36:02,837 INFO [base.py(system_press:124)] - 对系统进行点击：enter 按键操作完成！
+2020-12-24 12:36:02,837 INFO [page_index_openfile.py(page_index_get_document_info:91)] - 正在调用查看文档信息组合业务方法
+2020-12-24 12:36:07,837 INFO [base.py(system_click:137)] - 正在准备进行对坐标(800.0,450.0)1键right此点击操作
+2020-12-24 12:36:07,938 INFO [base.py(system_click:140)] - 进行对坐标(800.0,450.0)1键right此点击操作完成！
+2020-12-24 12:36:07,938 INFO [base.py(base_click:56)] - 正在准备对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作
+2020-12-24 12:36:07,938 INFO [base.py(base_find:26)] - 正在查找：('id', 'docViewercontextMenuDocProperties')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:36:08,034 INFO [base.py(base_click:58)] - 对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作完成
+2020-12-24 12:36:08,034 INFO [page_index_openfile.py(page_index_get_fileauthor:105)] - 正在调用审核文档作者组合业务方法
+2020-12-24 12:36:08,034 INFO [base.py(base_find:26)] - 正在查找：('id', 'docViewer_docPropertiesAuthor')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:36:08,052 INFO [base.py(base_get_text:67)] - 正在对:('id', 'docViewer_docPropertiesAuthor')元素获取文本操作, 获取的文本值：版式文档标准编制组
+2020-12-24 12:36:08,053 INFO [base.py(base_find:26)] - 正在查找：('id', 'docViewer_docPropertiesAuthor')元素，访问频率：0.1 超时时间：30
+2020-12-24 12:36:08,063 INFO [page_index_openfile.py(page_index_get_fileauthor:108)] - 所打开文档的作者为:版式文档标准编制组
+2020-12-24 12:36:15,445 INFO [base.py(__init__:15)] - 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="a21ea31ab45b65a86d8cd4aeee43f39f")>
+2020-12-24 12:36:15,446 INFO [page_index_pencil.py(page_index_draw_pencil:57)] - 铅笔绘画组合方法
+2020-12-24 12:36:17,446 INFO [base.py(base_click:56)] - 正在准备对：('id', 'btnPencilTool')元素执行点击操作
+2020-12-24 12:36:17,446 INFO [base.py(base_find:26)] - 正在查找：('id', 'btnPencilTool')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:36:17,530 INFO [base.py(base_click:58)] - 对：('id', 'btnPencilTool')元素执行点击操作完成
+2020-12-24 12:36:19,336 INFO [page_index_pencil.py(page_index_draw_pencil:60)] - 铅笔绘画组合方法完成
+2020-12-24 12:36:19,336 INFO [base.py(base_get_assert_img:87)] - 正在截图操作
+2020-12-24 12:36:19,714 INFO [base.py(__write_assert_report:96)] - 正在将图片写入报告操作
+2020-12-24 12:36:19,716 INFO [page_index_pencil.py(page_index_delete_draw_pencil:64)] - 铅笔绘画删除组合方法
+2020-12-24 12:36:19,716 INFO [base.py(base_click:56)] - 正在准备对：('id', 'btnHandTool')元素执行点击操作
+2020-12-24 12:36:19,716 INFO [base.py(base_find:26)] - 正在查找：('id', 'btnHandTool')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:36:19,747 INFO [base.py(base_click:58)] - 对：('id', 'btnHandTool')元素执行点击操作完成
+2020-12-24 12:36:24,747 INFO [base.py(system_click:137)] - 正在准备进行对坐标(533.3333333333334,300.0)1键right此点击操作
+2020-12-24 12:36:24,850 INFO [base.py(system_click:140)] - 进行对坐标(533.3333333333334,300.0)1键right此点击操作完成！
+2020-12-24 12:36:24,850 INFO [base.py(base_click:56)] - 正在准备对：('id', 'delete_annot')元素执行点击操作
+2020-12-24 12:36:24,850 INFO [base.py(base_find:26)] - 正在查找：('id', 'delete_annot')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:36:24,919 INFO [base.py(base_click:58)] - 对：('id', 'delete_annot')元素执行点击操作完成
+2020-12-24 12:36:24,919 INFO [page_index_pencil.py(page_index_delete_draw_pencil:68)] - 铅笔绘画删除组合方法完成
+2020-12-24 12:36:24,919 INFO [base.py(base_get_assert_img:87)] - 正在截图操作
+2020-12-24 12:36:25,260 INFO [base.py(__write_assert_report:96)] - 正在将图片写入报告操作
+2020-12-24 12:36:25,261 INFO [page_index_pencil.py(page_index_property_pencil:72)] - 铅笔默认属性更改组合方法
+2020-12-24 12:36:30,263 INFO [base.py(system_click:137)] - 正在准备进行对坐标(583.3333333333334,350.0)1键right此点击操作
+2020-12-24 12:36:30,365 INFO [base.py(system_click:140)] - 进行对坐标(583.3333333333334,350.0)1键right此点击操作完成！
+2020-12-24 12:36:30,365 INFO [base.py(base_click:56)] - 正在准备对：('id', 'open_property')元素执行点击操作
+2020-12-24 12:36:30,366 INFO [base.py(base_find:26)] - 正在查找：('id', 'open_property')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:36:30,478 INFO [base.py(base_click:58)] - 对：('id', 'open_property')元素执行点击操作完成
+2020-12-24 12:36:30,479 INFO [base.py(base_click:56)] - 正在准备对：('xpath', '//*[@id="fwrCommentPropertyDlg"]/div[2]/dl/dd/span[4]/span')元素执行点击操作
+2020-12-24 12:36:30,479 INFO [base.py(base_find:26)] - 正在查找：('xpath', '//*[@id="fwrCommentPropertyDlg"]/div[2]/dl/dd/span[4]/span')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:36:30,516 INFO [base.py(base_click:58)] - 对：('xpath', '//*[@id="fwrCommentPropertyDlg"]/div[2]/dl/dd/span[4]/span')元素执行点击操作完成
+2020-12-24 12:36:30,516 INFO [base.py(base_click:56)] - 正在准备对：('id', 'set_default')元素执行点击操作
+2020-12-24 12:36:30,516 INFO [base.py(base_find:26)] - 正在查找：('id', 'set_default')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:36:30,552 INFO [base.py(base_click:58)] - 对：('id', 'set_default')元素执行点击操作完成
+2020-12-24 12:36:30,552 INFO [base.py(base_click:56)] - 正在准备对：('id', 'closeBtn')元素执行点击操作
+2020-12-24 12:36:30,552 INFO [base.py(base_find:26)] - 正在查找：('id', 'closeBtn')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:36:30,592 INFO [base.py(base_click:58)] - 对：('id', 'closeBtn')元素执行点击操作完成
+2020-12-24 12:36:32,593 INFO [base.py(base_click:56)] - 正在准备对：('id', 'btnPencilTool')元素执行点击操作
+2020-12-24 12:36:32,593 INFO [base.py(base_find:26)] - 正在查找：('id', 'btnPencilTool')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:36:32,715 INFO [base.py(base_click:58)] - 对：('id', 'btnPencilTool')元素执行点击操作完成
+2020-12-24 12:36:33,417 INFO [page_index_pencil.py(page_index_property_pencil:80)] - 铅笔默认属性更改组合方法
+2020-12-24 12:36:33,417 INFO [base.py(base_get_assert_img:87)] - 正在截图操作
+2020-12-24 12:36:33,787 INFO [base.py(__write_assert_report:96)] - 正在将图片写入报告操作
+2020-12-24 12:36:40,583 INFO [base.py(__init__:15)] - 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="773b219e72528e189f07b34e551fbcb4")>
+2020-12-24 12:36:40,583 INFO [base.py(__init__:15)] - 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="773b219e72528e189f07b34e551fbcb4")>
+2020-12-24 12:36:40,583 INFO [base.py(__init__:15)] - 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="773b219e72528e189f07b34e551fbcb4")>
+2020-12-24 12:36:40,584 INFO [page_index_openfile.py(page_index_openfile:68)] - 正在调用打开文档组合业务方法(点击logo),路径为:C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd
+2020-12-24 12:36:42,585 INFO [base.py(base_click:56)] - 正在准备对：('id', 'fileUploadForm2')元素执行点击操作
+2020-12-24 12:36:42,585 INFO [base.py(base_find:26)] - 正在查找：('id', 'fileUploadForm2')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:36:42,681 INFO [base.py(base_click:58)] - 对：('id', 'fileUploadForm2')元素执行点击操作完成
+2020-12-24 12:36:45,682 INFO [base.py(system_write:108)] - 正在准备对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd 操作
+2020-12-24 12:36:45,824 INFO [base.py(system_write:112)] - 对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd 操作完成！
+2020-12-24 12:36:47,824 INFO [base.py(system_press:122)] - 正在准备对系统进行点击：enter 按键操作
+2020-12-24 12:36:47,925 INFO [base.py(system_press:124)] - 对系统进行点击：enter 按键操作完成！
+2020-12-24 12:36:47,925 INFO [page_index_pencil.py(page_index_draw_pencil:57)] - 铅笔绘画组合方法
+2020-12-24 12:36:49,925 INFO [base.py(base_click:56)] - 正在准备对：('id', 'btnPencilTool')元素执行点击操作
+2020-12-24 12:36:49,925 INFO [base.py(base_find:26)] - 正在查找：('id', 'btnPencilTool')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:36:49,962 INFO [base.py(base_click:58)] - 对：('id', 'btnPencilTool')元素执行点击操作完成
+2020-12-24 12:36:51,788 INFO [page_index_pencil.py(page_index_draw_pencil:60)] - 铅笔绘画组合方法完成
+2020-12-24 12:36:51,788 INFO [base.py(base_get_assert_img:87)] - 正在截图操作
+2020-12-24 12:36:52,185 INFO [base.py(__write_assert_report:96)] - 正在将图片写入报告操作
+2020-12-24 12:36:52,187 INFO [page_index_savefile.py(page_index_savefile:28)] - 正在调用保存文件组合业务方法
+2020-12-24 12:36:54,187 INFO [base.py(base_click:56)] - 正在准备对：('id', 'btnSave')元素执行点击操作
+2020-12-24 12:36:54,187 INFO [base.py(base_find:26)] - 正在查找：('id', 'btnSave')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:36:54,282 INFO [base.py(base_click:58)] - 对：('id', 'btnSave')元素执行点击操作完成
+2020-12-24 12:36:54,282 INFO [base.py(base_find:26)] - 正在查找：('xpath', '//*[@id="fwrAlertDlg"]/div[2]')元素，访问频率：0.5 超时时间：30
+2020-12-24 12:36:54,853 INFO [base.py(base_get_text:67)] - 正在对:('xpath', '//*[@id="fwrAlertDlg"]/div[2]')元素获取文本操作, 获取的文本值：保存文件成功.
+2020-12-24 12:36:54,853 INFO [base.py(base_find:26)] - 正在查找：('xpath', '//*[@id="fwrAlertDlg"]/div[2]')元素，访问频率：0.1 超时时间：30
+2020-12-24 12:36:54,878 INFO [page_index_savefile.py(page_index_savefile:31)] - 获取到的提示信息为:保存文件成功.
+2020-12-24 15:41:22,593 INFO [base.py(__init__:19)] - 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="faae0f1823ea7ef63a130c73f10eaaeb")>
+2020-12-24 15:41:22,674 INFO [page_index_openfile.py(page_index_openfile:72)] - 正在调用打开文档组合业务方法(点击logo),路径为:C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd
+2020-12-24 15:41:24,674 INFO [base.py(base_click:60)] - 正在准备对：('id', 'fileUploadForm2')元素执行点击操作
+2020-12-24 15:41:24,674 INFO [base.py(base_find:30)] - 正在查找：('id', 'fileUploadForm2')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:41:24,828 INFO [base.py(base_click:62)] - 对：('id', 'fileUploadForm2')元素执行点击操作完成
+2020-12-24 15:41:27,829 INFO [base.py(system_write:112)] - 正在准备对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd 操作
+2020-12-24 15:41:27,990 INFO [base.py(system_write:116)] - 对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\1.ofd 操作完成！
+2020-12-24 15:41:29,990 INFO [base.py(system_press:126)] - 正在准备对系统进行点击：enter 按键操作
+2020-12-24 15:41:30,091 INFO [base.py(system_press:128)] - 对系统进行点击：enter 按键操作完成！
+2020-12-24 15:41:30,091 INFO [page_index_openfile.py(page_index_get_document_info:95)] - 正在调用查看文档信息组合业务方法
+2020-12-24 15:41:35,092 INFO [base.py(system_click:141)] - 正在准备进行对坐标(800.0,450.0)1键right此点击操作
+2020-12-24 15:41:35,194 INFO [base.py(system_click:144)] - 进行对坐标(800.0,450.0)1键right此点击操作完成！
+2020-12-24 15:41:35,194 INFO [base.py(base_click:60)] - 正在准备对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作
+2020-12-24 15:41:35,194 INFO [base.py(base_find:30)] - 正在查找：('id', 'docViewercontextMenuDocProperties')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:41:35,435 INFO [base.py(base_click:62)] - 对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作完成
+2020-12-24 15:41:35,436 INFO [page_index_openfile.py(page_index_get_filetitle:101)] - 正在调用审核文档标题组合业务方法
+2020-12-24 15:41:35,436 INFO [base.py(base_find:30)] - 正在查找：('id', 'docViewer_docPropertiesTitle')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:41:35,456 INFO [base.py(base_get_text:71)] - 正在对:('id', 'docViewer_docPropertiesTitle')元素获取文本操作, 获取的文本值：自动化测试文档1.ofd
+2020-12-24 15:41:35,456 INFO [base.py(base_find:30)] - 正在查找：('id', 'docViewer_docPropertiesTitle')元素，访问频率：0.1 超时时间：30
+2020-12-24 15:41:35,465 INFO [page_index_openfile.py(page_index_get_filetitle:104)] - 所打开文档的标题为:自动化测试文档1.ofd
+2020-12-24 15:41:46,860 INFO [base.py(__init__:19)] - 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="340b8e31b3022235feec4c9a35a0fc4e")>
+2020-12-24 15:41:46,861 INFO [page_index_openfile.py(page_index_loacl_openfile:79)] - 正在调用打开文档组合业务方法(点击本地文件),路径为:C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\sign_keyword.ofd
+2020-12-24 15:41:48,861 INFO [base.py(base_click:60)] - 正在准备对：('id', 'btn-openfile-switch')元素执行点击操作
+2020-12-24 15:41:48,861 INFO [base.py(base_find:30)] - 正在查找：('id', 'btn-openfile-switch')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:41:48,986 INFO [base.py(base_click:62)] - 对：('id', 'btn-openfile-switch')元素执行点击操作完成
+2020-12-24 15:41:50,986 INFO [base.py(base_click:60)] - 正在准备对：('id', 'btnOpenLocal')元素执行点击操作
+2020-12-24 15:41:50,986 INFO [base.py(base_find:30)] - 正在查找：('id', 'btnOpenLocal')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:41:51,080 INFO [base.py(base_click:62)] - 对：('id', 'btnOpenLocal')元素执行点击操作完成
+2020-12-24 15:41:54,080 INFO [base.py(system_write:112)] - 正在准备对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\sign_keyword.ofd 操作
+2020-12-24 15:41:54,226 INFO [base.py(system_write:116)] - 对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\sign_keyword.ofd 操作完成！
+2020-12-24 15:41:56,226 INFO [base.py(system_press:126)] - 正在准备对系统进行点击：enter 按键操作
+2020-12-24 15:41:56,327 INFO [base.py(system_press:128)] - 对系统进行点击：enter 按键操作完成！
+2020-12-24 15:41:56,327 INFO [page_index_openfile.py(page_index_get_document_info:95)] - 正在调用查看文档信息组合业务方法
+2020-12-24 15:42:01,327 INFO [base.py(system_click:141)] - 正在准备进行对坐标(800.0,450.0)1键right此点击操作
+2020-12-24 15:42:01,428 INFO [base.py(system_click:144)] - 进行对坐标(800.0,450.0)1键right此点击操作完成！
+2020-12-24 15:42:01,428 INFO [base.py(base_click:60)] - 正在准备对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作
+2020-12-24 15:42:01,428 INFO [base.py(base_find:30)] - 正在查找：('id', 'docViewercontextMenuDocProperties')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:42:01,503 INFO [base.py(base_click:62)] - 对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作完成
+2020-12-24 15:42:01,503 INFO [page_index_openfile.py(page_index_get_filetitle:101)] - 正在调用审核文档标题组合业务方法
+2020-12-24 15:42:01,503 INFO [base.py(base_find:30)] - 正在查找：('id', 'docViewer_docPropertiesTitle')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:42:01,522 INFO [base.py(base_get_text:71)] - 正在对:('id', 'docViewer_docPropertiesTitle')元素获取文本操作, 获取的文本值：自动化测试文档1
+2020-12-24 15:42:01,522 INFO [base.py(base_find:30)] - 正在查找：('id', 'docViewer_docPropertiesTitle')元素，访问频率：0.1 超时时间：30
+2020-12-24 15:42:01,534 INFO [page_index_openfile.py(page_index_get_filetitle:104)] - 所打开文档的标题为:自动化测试文档1
+2020-12-24 15:42:10,687 INFO [base.py(__init__:19)] - 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="1cc3ae059195d1ceade259f4a8df5eae")>
+2020-12-24 15:42:10,688 INFO [page_index_openfile.py(page_index_online_openfile:87)] - 正在调用打开文档组合业务方法(点击网络文件),URL为:http://10.6.8.3:8080/viewer/docs/sample/sample.ofd
+2020-12-24 15:42:12,688 INFO [base.py(base_click:60)] - 正在准备对：('id', 'btn-openfile-switch')元素执行点击操作
+2020-12-24 15:42:12,688 INFO [base.py(base_find:30)] - 正在查找：('id', 'btn-openfile-switch')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:42:12,791 INFO [base.py(base_click:62)] - 对：('id', 'btn-openfile-switch')元素执行点击操作完成
+2020-12-24 15:42:14,791 INFO [base.py(base_click:60)] - 正在准备对：('id', 'btnOpenOnline')元素执行点击操作
+2020-12-24 15:42:14,791 INFO [base.py(base_find:30)] - 正在查找：('id', 'btnOpenOnline')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:42:14,855 INFO [base.py(base_click:62)] - 对：('id', 'btnOpenOnline')元素执行点击操作完成
+2020-12-24 15:42:14,856 INFO [base.py(base_find:30)] - 正在查找：('id', 'onlineUrlInput')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:42:14,865 INFO [base.py(base_input:45)] - 正在准备对：('id', 'onlineUrlInput')元素执行清空操作
+2020-12-24 15:42:14,892 INFO [base.py(base_input:48)] - 对：('id', 'onlineUrlInput')元素执行清空操作完成！
+2020-12-24 15:42:14,892 INFO [base.py(base_input:49)] - 正在准备对：('id', 'onlineUrlInput')元素执行输入：http://10.6.8.3:8080/viewer/docs/sample/sample.ofd 操作
+2020-12-24 15:42:15,074 INFO [base.py(base_input:52)] - 对：('id', 'onlineUrlInput')元素执行输入：http://10.6.8.3:8080/viewer/docs/sample/sample.ofd 操作完成！
+2020-12-24 15:42:15,075 INFO [base.py(base_click:60)] - 正在准备对：('id', 'btnOkOpen')元素执行点击操作
+2020-12-24 15:42:15,075 INFO [base.py(base_find:30)] - 正在查找：('id', 'btnOkOpen')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:42:15,127 INFO [base.py(base_click:62)] - 对：('id', 'btnOkOpen')元素执行点击操作完成
+2020-12-24 15:42:15,128 INFO [page_index_openfile.py(page_index_get_document_info:95)] - 正在调用查看文档信息组合业务方法
+2020-12-24 15:42:20,129 INFO [base.py(system_click:141)] - 正在准备进行对坐标(800.0,450.0)1键right此点击操作
+2020-12-24 15:42:20,231 INFO [base.py(system_click:144)] - 进行对坐标(800.0,450.0)1键right此点击操作完成！
+2020-12-24 15:42:20,231 INFO [base.py(base_click:60)] - 正在准备对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作
+2020-12-24 15:42:20,231 INFO [base.py(base_find:30)] - 正在查找：('id', 'docViewercontextMenuDocProperties')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:42:20,288 INFO [base.py(base_click:62)] - 对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作完成
+2020-12-24 15:42:20,288 INFO [page_index_openfile.py(page_index_get_fileauthor:109)] - 正在调用审核文档作者组合业务方法
+2020-12-24 15:42:20,288 INFO [base.py(base_find:30)] - 正在查找：('id', 'docViewer_docPropertiesAuthor')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:42:20,306 INFO [base.py(base_get_text:71)] - 正在对:('id', 'docViewer_docPropertiesAuthor')元素获取文本操作, 获取的文本值：高明
+2020-12-24 15:42:20,306 INFO [base.py(base_find:30)] - 正在查找：('id', 'docViewer_docPropertiesAuthor')元素，访问频率：0.1 超时时间：30
+2020-12-24 15:42:20,315 INFO [page_index_openfile.py(page_index_get_fileauthor:112)] - 所打开文档的作者为:高明
+2020-12-24 15:42:30,797 INFO [base.py(__init__:19)] - 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="d620dbe543ab60ea79a60f6aab82e7c3")>
+2020-12-24 15:42:30,798 INFO [page_index_openfile.py(page_index_openfile:72)] - 正在调用打开文档组合业务方法(点击logo),路径为:C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\版式格式规范送审稿.pdf
+2020-12-24 15:42:32,798 INFO [base.py(base_click:60)] - 正在准备对：('id', 'fileUploadForm2')元素执行点击操作
+2020-12-24 15:42:32,798 INFO [base.py(base_find:30)] - 正在查找：('id', 'fileUploadForm2')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:42:32,902 INFO [base.py(base_click:62)] - 对：('id', 'fileUploadForm2')元素执行点击操作完成
+2020-12-24 15:42:35,903 INFO [base.py(system_write:112)] - 正在准备对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\版式格式规范送审稿.pdf 操作
+2020-12-24 15:42:36,049 INFO [base.py(system_write:116)] - 对系统输入：C:\Users\fxkp\PycharmProjects\Cloud_Reader\testcase\版式格式规范送审稿.pdf 操作完成！
+2020-12-24 15:42:38,050 INFO [base.py(system_press:126)] - 正在准备对系统进行点击：enter 按键操作
+2020-12-24 15:42:38,151 INFO [base.py(system_press:128)] - 对系统进行点击：enter 按键操作完成！
+2020-12-24 15:42:38,151 INFO [page_index_openfile.py(page_index_get_document_info:95)] - 正在调用查看文档信息组合业务方法
+2020-12-24 15:42:43,151 INFO [base.py(system_click:141)] - 正在准备进行对坐标(800.0,450.0)1键right此点击操作
+2020-12-24 15:42:43,251 INFO [base.py(system_click:144)] - 进行对坐标(800.0,450.0)1键right此点击操作完成！
+2020-12-24 15:42:43,251 INFO [base.py(base_click:60)] - 正在准备对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作
+2020-12-24 15:42:43,251 INFO [base.py(base_find:30)] - 正在查找：('id', 'docViewercontextMenuDocProperties')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:42:43,322 INFO [base.py(base_click:62)] - 对：('id', 'docViewercontextMenuDocProperties')元素执行点击操作完成
+2020-12-24 15:42:43,322 INFO [page_index_openfile.py(page_index_get_fileauthor:109)] - 正在调用审核文档作者组合业务方法
+2020-12-24 15:42:43,323 INFO [base.py(base_find:30)] - 正在查找：('id', 'docViewer_docPropertiesAuthor')元素，访问频率：0.5 超时时间：30
+2020-12-24 15:42:43,344 INFO [base.py(base_get_text:71)] - 正在对:('id', 'docViewer_docPropertiesAuthor')元素获取文本操作, 获取的文本值：版式文档标准编制组
+2020-12-24 15:42:43,344 INFO [base.py(base_find:30)] - 正在查找：('id', 'docViewer_docPropertiesAuthor')元素，访问频率：0.1 超时时间：30
+2020-12-24 15:42:43,353 INFO [page_index_openfile.py(page_index_get_fileauthor:112)] - 所打开文档的作者为:版式文档标准编制组
+2020-12-24 15:42:53,203 INFO [base.py(__init__:19)] - 正在初始化driver对象： <selenium.webdriver.chrome.webdriver.WebDriver (session="8e91dddf9ac9a31441c9c83ced4c9a21")>
+2020-12-24 15:42:53,204 INFO [page_index_pencil.py(page_index_draw_pencil:61)] - 铅笔绘画组合方法
+2020-12-24 15:42:55,945 WARNING [connectionpool.py(urlopen:781)] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000050B8B88>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/8e91dddf9ac9a31441c9c83ced4c9a21
+2020-12-24 15:42:56,947 WARNING [connectionpool.py(urlopen:781)] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000000000574EA48>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/8e91dddf9ac9a31441c9c83ced4c9a21
