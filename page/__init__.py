@@ -87,3 +87,7 @@ index_third_line_y = 380
 index_fourth_line_y = 410
 index_drag_left = "left"
 index_drag_right = "right"
+# 签章按钮
+index_sign_button = "btnElecSignature"
+index_checksign_button = "btnElecSignature"
+index_sign_message = "fwrAlertDialogMsgHolder"
